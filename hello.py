@@ -3,8 +3,5 @@
 #
 # print ("Hello world")
 
-<<<<<<< HEAD
+
 print("Welcome")
-=======
-print('WelcomThis is a string')
->>>>>>> new_greeting
